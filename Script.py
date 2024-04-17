@@ -10,7 +10,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.
 🌿 𝐌𝐚𝐢𝐧𝐭𝐚𝐢𝐧𝐞𝐝 𝐁𝐲 : <a href='https://t.me/+iIs7Pc-oCOs2YmU1'>𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑</a></b>"""
 
     ABOUT_TXT = """<b>✯ Mʏ Nᴀᴍᴇ : {}</b>
-<b>✯ Cʀᴇᴀᴛᴏʀ : <a href=https://t.me/Kanal_Roman_KK>♀️Oᗯᑎᗴᖇ♀️</a></b>
+<b>✯ Cʀᴇᴀᴛᴏʀ : <a href=https://t.me/Shy_boy_kanal>♀️Oᗯᑎᗴᖇ♀️</a></b>
 <b>✯ Uᴘᴅᴀᴛᴇs : <a href=https://t.me/Roman_botz>♀️ᑌᑭᗪᗩTᗴՏ♀️</a></b>
 <b>✯ Bᴜɪʟᴅ Sᴛᴀᴛᴜs : ᴠ2.0.62 [Sᴛᴀʙʟᴇ]</b>"""
 
