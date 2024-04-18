@@ -76,7 +76,7 @@ Do as you wish with telegra.ph module!
 • This Command Is Available in goups and pms
 • This Command Can be used by everyone
 
-• Contact Owner: @KUSHALHK"""
+• Contact Owner: @Shy_boy_kanal"""
 
     SONG_TXT = """<b>ꜱᴏɴɢ ᴅᴏᴡɴʟᴏᴀᴅ ᴍᴏᴅᴜʟᴇ</b>
     
