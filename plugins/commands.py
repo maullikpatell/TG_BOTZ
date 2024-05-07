@@ -51,7 +51,7 @@ async def start(client, message):
                     InlineKeyboardButton('👻 Hᴇʟᴘ', callback_data='help'),
                     InlineKeyboardButton('👾 Aʙᴏᴜᴛ', callback_data='about')
                 ],[
-                    InlineKeyboardButton('💰 Eᴀʀɴ Mᴏɴᴇʏ 💰', callback_data="shortlink_info")
+                    InlineKeyboardButton('🎥 𝐑𝐁 𝐂𝐇𝐀𝐍𝐍𝐄𝐋 𝐋𝐈𝐒𝐓 ❤️‍🔥', callback_data="shortlink_info")
                   ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         m=await message.reply_sticker("CAACAgUAAxkBAAJeOWTqzCw95gnMkoRzi-Kd333UEA4wAAKjBAACSKDRVxK_r9UMhuoLHgQ") 
@@ -102,7 +102,7 @@ async def start(client, message):
                     InlineKeyboardButton('👻 Hᴇʟᴘ', callback_data='help'),
                     InlineKeyboardButton('👾 Aʙᴏᴜᴛ', callback_data='about')
                 ],[
-                    InlineKeyboardButton('💰 Eᴀʀɴ Mᴏɴᴇʏ 💰', callback_data="shortlink_info")
+                    InlineKeyboardButton('🎥 𝐑𝐁 𝐂𝐇𝐀𝐍𝐍𝐄𝐋 𝐋𝐈𝐒𝐓 ❤️‍🔥', callback_data="shortlink_info")
                   ]]
         reply_markup = InlineKeyboardMarkup(buttons)      
         await message.reply_photo(
