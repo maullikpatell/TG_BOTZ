@@ -2,12 +2,12 @@ class script(object):
     START_TXT = """<b>Hᴇʟʟᴏ {},
 Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a>, I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇs, Jᴜsᴛ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ As Aᴅᴍɪɴ Aɴᴅ Eɴᴊᴏʏ 😍
 
-🌿 𝐌𝐚𝐢𝐧𝐭𝐚𝐢𝐧𝐞𝐝 𝐁𝐲 : <a href='https://t.me/RB_LinkZzzz'>𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑</a></b>"""
+🌿 𝐌𝐚𝐢𝐧𝐭𝐚𝐢𝐧𝐞𝐝 𝐁𝐲 : <a href='https://t.me/RN_LinkZzzz'>𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑</a></b>"""
 
     HELP_TXT = """<b>Hᴇʏ {}
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.
 
-🌿 𝐌𝐚𝐢𝐧𝐭𝐚𝐢𝐧𝐞𝐝 𝐁𝐲 : <a href='https://t.me/RB_LinkZzzz'>𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑</a></b>"""
+🌿 𝐌𝐚𝐢𝐧𝐭𝐚𝐢𝐧𝐞𝐝 𝐁𝐲 : <a href='https://t.me/RN_LinkZzzz'>𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑</a></b>"""
 
     ABOUT_TXT = """<b>✯ Mʏ Nᴀᴍᴇ : {}</b>
 <b>✯ Cʀᴇᴀᴛᴏʀ : <a href=https://t.me/Shy_boy_kanal>♀️Oᗯᑎᗴᖇ♀️</a></b>
@@ -151,7 +151,7 @@ Do as you wish with telegra.ph module!
 
 ⚙️ 𝖭ᴏᴛᴇ :- 𝖠ʟʟ ᴍᴇ𝗌𝗌ᴀɢᴇ𝗌 ᴡɪʟʟ ʙᴇ ᴀᴜᴛᴏ-ᴅᴇʟᴇᴛᴇᴅ ᴀғᴛᴇʀ 𝟷𝟶 ᴍɪɴᴜᴛᴇ𝗌 ᴛᴏ ᴀᴠᴏɪᴅ ᴄᴏᴘʏʀɪɢʜᴛ ɪ𝗌𝗌ᴜᴇ𝗌
 
-◤ @RB_LinkZzzz 🌟"""
+◤ @RN_LinkZzzz 🌟"""
 
     CONNECTION_TXT = """ʜᴇʟᴘ: <b>ᴄᴏɴɴᴇᴄᴛɪᴏɴꜱ</b>
 - ᴜꜱᴇᴅ ᴛᴏ ᴄᴏɴɴᴇᴄᴛ ʙᴏᴛ ᴛᴏ ᴘᴍ ꜰᴏʀ ᴍᴀɴᴀɢɪɴɢ ꜰɪʟᴛᴇʀꜱ 
@@ -246,15 +246,17 @@ Nᴀᴍᴇ - {}"""
     MELCOW_ENG = """<b>Hᴇʟʟᴏ {} 😍, Aɴᴅ Wᴇʟᴄᴏᴍᴇ Tᴏ {} Gʀᴏᴜᴘ ❤️</b>"""
 
     SHORTLINK_INFO = """
-<b>──────「<a href=https://t.me/RB_LinkZzzz> 𝐑𝐁 𝐂𝐇𝐀𝐍𝐍𝐄𝐋 𝐋𝐈𝐒𝐓 </a> 」──────
+<b>──────「<a href=https://t.me/RN_LinkZzzz> 𝐑𝐍 𝐂𝐇𝐀𝐍𝐍𝐄𝐋 𝐋𝐈𝐒𝐓 </a> 」──────
 
-👋🏼 𝙃𝙞 𝙛𝙧𝙞𝙚𝙣𝙙𝙨 - 𝙅𝙤𝙞𝙣 𝙊𝙪𝙧 𝙊𝙛𝙛𝙞𝙘𝙞𝙖𝙡 𝘾𝙝𝙖𝙣𝙣𝙚𝙡𝙨 #RB ❤️👇🏼
+👋🏼 𝙃𝙞 𝙛𝙧𝙞𝙚𝙣𝙙𝙨 - 𝙅𝙤𝙞𝙣 𝙊𝙪𝙧 𝙊𝙛𝙛𝙞𝙘𝙞𝙖𝙡 𝘾𝙝𝙖𝙣𝙣𝙚𝙡𝙨 #RN ❤️👇🏼
 
 <a href='https://t.me/Movies_Roman'>🎥 𝙏𝙖𝙢𝙞𝙡 𝙈𝙤𝙫𝙞𝙚𝙨 𝘽𝙤𝙩𝙨 ❤️‍🔥</a></b>
 
 <a href='https://t.me/+akryLt_jlOsyOTI1'>🎥 𝙏𝙖𝙢𝙞𝙡 𝙈𝙤𝙫𝙞𝙚𝙨 🔥 </a></b>
 
 <a href='https://t.me/+7PDmiUboegY2Y2Q9'>🎥 𝙏𝙖𝙢𝙞𝙡 𝙒𝙚𝙗 𝙨𝙚𝙧𝙞𝙚𝙨 🩵 </a></b>
+
+<a href='https://t.me/+W8CNhG4NpSBhYWQ1'> 🎥 𝙏𝙖𝙢𝙞𝙡 𝘿𝙪𝙗𝙗𝙚𝙙 𝙈𝙤𝙫𝙞𝙚𝙨 🤠 </a></b>
 
 <a href='https://t.me/+LfjpY53Q7LBkNjI1'> 🎥 𝙃𝙤𝙡𝙡𝙮𝙬𝙤𝙤𝙙 𝙈𝙤𝙫𝙞𝙚𝙨 ⚡ </a></b>
 
@@ -270,7 +272,7 @@ Nᴀᴍᴇ - {}"""
 
 🥰 𝐉𝐨𝐢𝐧 𝐎𝐮𝐫 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 𝐂𝐡𝐚𝐧𝐧𝐞𝐥𝐬 ☝🏼
 
-◤ @RB_LinkZzzz 🌟 </b>
+◤ @RN_LinkZzzz 🌟 </b>
 """
 
     REQINFO = """
@@ -313,7 +315,7 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 ═══════════════════ 
 𝐒𝐔𝐁𝐒𝐂𝐑𝐈𝐁𝐄 𝐇𝐄𝐑𝐄 👇
 ╔═════════════════╗         
-    <a href="https://t.me/RB_LinkZzzz">🔱 𝐂𝐇𝐀𝐍𝐍𝐄𝐋 🔱</a>
+    <a href="https://t.me/RN_LinkZzzz">🔱 𝐂𝐇𝐀𝐍𝐍𝐄𝐋 🔱</a>
 ╚═════════════════╝</b>"""
     
     IMDB_TEMPLATE_TXT = """
