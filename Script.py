@@ -11,7 +11,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.
 
     ABOUT_TXT = """<b>✯ Mʏ Nᴀᴍᴇ : {}</b>
 <b>✯ Cʀᴇᴀᴛᴏʀ : <a href=https://t.me/Shy_boy_kanal>♀️Oᗯᑎᗴᖇ♀️</a></b>
-<b>✯ Uᴘᴅᴀᴛᴇs : <a href=https://t.me/RB_LinkZzzz>♀️ᑌᑭᗪᗩTᗴՏ♀️</a></b>
+<b>✯ Uᴘᴅᴀᴛᴇs : <a href=https://t.me/RN_LinkZzzz>♀️ᑌᑭᗪᗩTᗴՏ♀️</a></b>
 <b>✯ Bᴜɪʟᴅ Sᴛᴀᴛᴜs : ᴠ2.0.62 [Sᴛᴀʙʟᴇ]</b>"""
 
     SOURCE_TXT = """
@@ -250,25 +250,29 @@ Nᴀᴍᴇ - {}"""
 
 👋🏼 𝙃𝙞 𝙛𝙧𝙞𝙚𝙣𝙙𝙨 - 𝙅𝙤𝙞𝙣 𝙊𝙪𝙧 𝙊𝙛𝙛𝙞𝙘𝙞𝙖𝙡 𝘾𝙝𝙖𝙣𝙣𝙚𝙡𝙨 #RN ❤️👇🏼
 
+<a href='https://t.me/RN_LinkZzzz'>🎥 𝙍𝙉 𝙇𝙞𝙣𝙠𝙕𝙯𝙯𝙯 🔥</a></b>
+
 <a href='https://t.me/Movies_Roman'>🎥 𝙏𝙖𝙢𝙞𝙡 𝙈𝙤𝙫𝙞𝙚𝙨 𝘽𝙤𝙩𝙨 ❤️‍🔥</a></b>
 
-<a href='https://t.me/+akryLt_jlOsyOTI1'>🎥 𝙏𝙖𝙢𝙞𝙡 𝙈𝙤𝙫𝙞𝙚𝙨 🔥 </a></b>
+<a href='https://t.me/+68zy4LjkdGU1MGVl'>🎥 𝙏𝙖𝙢𝙞𝙡 𝙈𝙤𝙫𝙞𝙚𝙨 🔥 </a></b>
 
-<a href='https://t.me/+7PDmiUboegY2Y2Q9'>🎥 𝙏𝙖𝙢𝙞𝙡 𝙒𝙚𝙗 𝙨𝙚𝙧𝙞𝙚𝙨 🩵 </a></b>
+<a href='https://t.me/+0NOiS3L7jRA2NDc1'> 🎥 𝘼𝙡𝙡 𝙃𝘿 𝙈𝙤𝙫𝙞𝙚𝙨 🤠 </a></b>
 
-<a href='https://t.me/+W8CNhG4NpSBhYWQ1'> 🎥 𝙏𝙖𝙢𝙞𝙡 𝘿𝙪𝙗𝙗𝙚𝙙 𝙈𝙤𝙫𝙞𝙚𝙨 🤠 </a></b>
+<a href='https://t.me/+EtsLJsB5_yg5OTA1'> 🎥 𝙃𝙤𝙡𝙡𝙮𝙬𝙤𝙤𝙙 𝙈𝙤𝙫𝙞𝙚𝙨 ⚡ </a></b>
 
-<a href='https://t.me/+LfjpY53Q7LBkNjI1'> 🎥 𝙃𝙤𝙡𝙡𝙮𝙬𝙤𝙤𝙙 𝙈𝙤𝙫𝙞𝙚𝙨 ⚡ </a></b>
+<a href='https://t.me/+cDZZdjcDFk01Y2I1'> 🎥 𝙈𝙖𝙧𝙫𝙚𝙡 𝘾𝙤𝙡𝙡𝙚𝙘𝙩𝙞𝙤𝙣 🔥 </a></b>
 
-<a href='https://t.me/+PNs2v-l6mWY1MDA1'> 🎥 𝙆𝙤𝙧𝙚𝙖𝙣 𝙎𝙚𝙧𝙞𝙚𝙨 ❤️ </a></b>
+<a href='https://t.me/+JIYLZ4MvUqQzYzk1'> 🎥 𝘿𝘾 𝘾𝙤𝙡𝙡𝙚𝙘𝙩𝙞𝙤𝙣 ❤️‍🔥 </a></b>
+
+<a href='https://t.me/+yXPKOhTkFeM5MjU1'>🎥 𝙏𝙖𝙢𝙞𝙡 𝙒𝙚𝙗 𝙨𝙚𝙧𝙞𝙚𝙨 🩵 </a></b>
+
+<a href='https://t.me/+vRUih_-eotphOTBl'> 🎥 𝙆𝙤𝙧𝙚𝙖𝙣 𝙎𝙚𝙧𝙞𝙚𝙨 ❤️ </a></b>
 
 <a href='https://t.me/naruto_roman_rb'> 🎥 𝙉𝙖𝙧𝙪𝙩𝙤 & 𝙎𝙝𝙞𝙥𝙥𝙪𝙙𝙚𝙣 𝙏𝙖𝙢𝙞𝙡 ❤️‍🔥 </a></b>
 
 <a href='https://t.me/one_roman_rb'> 🎥 𝙊𝙣𝙚 𝙋𝙞𝙚𝙘𝙚 𝙏𝙖𝙢𝙞𝙡 ⚡ </a></b>
 
-<a href='https://t.me/+m00xeyEcqVhlY2Q1'> 🎥 𝙈𝙖𝙧𝙫𝙚𝙡 𝘾𝙤𝙡𝙡𝙚𝙘𝙩𝙞𝙤𝙣 🔥 </a></b>
-
-<a href='https://t.me/+XYAq1T9GPTI1YzVl'> 🎥 𝘿𝘾 𝘾𝙤𝙡𝙡𝙚𝙘𝙩𝙞𝙤𝙣 ❤️‍🔥 </a></b>
+<a href='https://t.me/+0RiXG-5OY5pkYmVl'> 🎥 𝙏𝙖𝙢𝙞𝙡 𝘼𝙣𝙞𝙢𝙚𝙨 💥 </a></b>
 
 🥰 𝐉𝐨𝐢𝐧 𝐎𝐮𝐫 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 𝐂𝐡𝐚𝐧𝐧𝐞𝐥𝐬 ☝🏼
 
@@ -311,7 +315,7 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 
     CAPTION = """ 
 <b>══════════════════
-🗂 {file_name}
+🗂 @RN_LinkZzzz :- {file_name}
 ═══════════════════ 
 𝐒𝐔𝐁𝐒𝐂𝐑𝐈𝐁𝐄 𝐇𝐄𝐑𝐄 👇
 ╔═════════════════╗         
