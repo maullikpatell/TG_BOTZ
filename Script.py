@@ -2,16 +2,16 @@ class script(object):
     START_TXT = """<b>Hᴇʟʟᴏ {},
 Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a>, I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇs, Jᴜsᴛ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ As Aᴅᴍɪɴ Aɴᴅ Eɴᴊᴏʏ 😍
 
-🌿 𝐌𝐚𝐢𝐧𝐭𝐚𝐢𝐧𝐞𝐝 𝐁𝐲 : <a href='https://t.me/KUSHALHK'>𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑</a></b>"""
+🌿 𝐌𝐚𝐢𝐧𝐭𝐚𝐢𝐧𝐞𝐝 𝐁𝐲 : <a href='https://t.me/RN_LinkZzzz'>𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑</a></b>"""
 
     HELP_TXT = """<b>Hᴇʏ {}
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.
 
-🌿 𝐌𝐚𝐢𝐧𝐭𝐚𝐢𝐧𝐞𝐝 𝐁𝐲 : <a href='https://t.me/KUSHALHK'>𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑</a></b>"""
+🌿 𝐌𝐚𝐢𝐧𝐭𝐚𝐢𝐧𝐞𝐝 𝐁𝐲 : <a href='https://t.me/RN_LinkZzzz'>𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑</a></b>"""
 
     ABOUT_TXT = """<b>✯ Mʏ Nᴀᴍᴇ : {}</b>
-<b>✯ Cʀᴇᴀᴛᴏʀ : <a href=https://t.me/KUSHALHK>♀️Oᗯᑎᗴᖇ♀️</a></b>
-<b>✯ Uᴘᴅᴀᴛᴇs : <a href=https://t.me/TG_UPDATES1>♀️ᑌᑭᗪᗩTᗴՏ♀️</a></b>
+<b>✯ Cʀᴇᴀᴛᴏʀ : <a href=https://t.me/Shy_boy_kanal>♀️Oᗯᑎᗴᖇ♀️</a></b>
+<b>✯ Uᴘᴅᴀᴛᴇs : <a href=https://t.me/RN_LinkZzzz>♀️ᑌᑭᗪᗩTᗴՏ♀️</a></b>
 <b>✯ Bᴜɪʟᴅ Sᴛᴀᴛᴜs : ᴠ2.0.62 [Sᴛᴀʙʟᴇ]</b>"""
 
     SOURCE_TXT = """
@@ -41,7 +41,7 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 2. ᴛʜɪꜱ ʙᴏᴛ ꜱᴜᴘᴘᴏʀᴛꜱ ʙᴜᴛᴛᴏɴꜱ ᴡɪᴛʜ ᴀɴʏ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴇᴅɪᴀ ᴛʏᴘᴇ.
 3. ʙᴜᴛᴛᴏɴꜱ ꜱʜᴏᴜʟᴅ ʙᴇ ᴘʀᴏᴘᴇʀʟʏ ᴘᴀʀꜱᴇᴅ ᴀꜱ ᴍᴀʀᴋᴅᴏᴡɴ ꜰᴏʀᴍᴀᴛ
 <b>ᴜʀʟ ʙᴜᴛᴛᴏɴꜱ:</b>
-<code>[Button Text](buttonurl:https://t.me/TG_LINKS_CHANNEL)</code>
+<code>[Button Text](buttonurl:https://t.me/RB_LinkZzzz)</code>
 <b>ᴀʟᴇʀᴛ ʙᴜᴛᴛᴏɴꜱ:</b>
 <code>[Button Text](buttonalert:ᴛʜɪꜱ ɪꜱ ᴀɴ ᴀʟᴇʀᴛ ᴍᴇꜱꜱᴀɢᴇ)</code>"""
 
@@ -76,7 +76,7 @@ Do as you wish with telegra.ph module!
 • This Command Is Available in goups and pms
 • This Command Can be used by everyone
 
-• Contact Owner: @KUSHALHK"""
+• Contact Owner: @Shy_boy_kanal"""
 
     SONG_TXT = """<b>ꜱᴏɴɢ ᴅᴏᴡɴʟᴏᴀᴅ ᴍᴏᴅᴜʟᴇ</b>
     
@@ -114,7 +114,7 @@ Do as you wish with telegra.ph module!
 <code>/mp4 https://youtu.be/*******</code>
 <code>/video https://youtu.be/*****</code>  
 
-• Owner: @KUSHALHK"""
+• Owner: @Shy_boy_kanal"""
 
     KANG_TXT = """
 𝐂𝐫𝐞𝐚𝐭𝐞 𝐎𝐰𝐧 𝐒𝐭𝐢𝐜𝐤𝐞𝐫 𝐀𝐧𝐝 𝐒𝐭𝐢𝐜𝐤𝐞𝐫 𝐏𝐚𝐜𝐤
@@ -126,25 +126,32 @@ Do as you wish with telegra.ph module!
 
 🔹 Sᴇᴀʀᴄʜ Mᴏᴠɪᴇ Wɪᴛʜ Cᴏʀʀᴇᴄᴛ Sᴘᴇʟʟɪɴɢ :
 › ᴀᴠᴀᴛᴀʀ 2009 ✅
-› ᴀᴠᴀᴛᴀʀ ʜɪɴᴅɪ ✅
-› ᴀᴠᴀᴛᴀʀ ᴍᴏᴠɪᴇ ❌
-› ᴀᴠᴀᴛᴀʀ ʜɪɴᴅɪ ᴅᴜʙʙᴇᴅ..❌
+› ᴀᴠᴀᴛᴀʀ ᴛᴀᴍɪʟ ✅
+› ᴀᴠᴀᴛᴀʀ ᴍᴏᴠɪᴇ ✅
+› ᴀᴠᴀᴛᴀʀ ᴛᴀᴍɪʟ ᴅᴜʙʙᴇᴅ..✅
 
 🔹Sᴇᴀʀᴄʜ Wᴇʙ Sᴇʀɪᴇs Iɴ ᴛʜɪs Fᴏʀᴍᴀᴛᴇ : 
 › ᴠɪᴋɪɴɢs S01 ✅
 › ᴠɪᴋɪɴɢs S01E01 ✅
-› ᴠɪᴋɪɴɢs S01 ʜɪɴᴅɪ ✅
-› ᴠɪᴋɪɴɢs S01 ʜɪɴᴅɪ ᴅᴜʙʙ. ❌
-› ᴠɪᴋɪɴɢs sᴇᴀsᴏɴ 1 ❌
-› ᴠɪᴋɪɴɢs ᴡᴇʙ sᴇʀɪᴇs ❌
+› ᴠɪᴋɪɴɢs S01 ᴛᴀᴍɪʟ ✅
+› ᴠɪᴋɪɴɢs S01 ᴛᴀᴍɪʟ ᴅᴜʙʙ. ✅
+› ᴠɪᴋɪɴɢs sᴇᴀsᴏɴ 1 ✅
+› ᴠɪᴋɪɴɢs ᴡᴇʙ sᴇʀɪᴇs ✅
+
+🔹 Sᴇᴀʀᴄʜ Aɴɪᴍᴇ Sᴇʀɪᴇs Iɴ ᴛʜɪs Fᴏʀᴍᴀᴛᴇ :
+› ɴᴀʀᴜᴛᴏ & ꜱʜɪᴘᴘᴜᴅᴇɴ ᴛᴀᴍɪʟ ✅
+› ᴏɴᴇ ᴘɪᴇᴄᴇ ᴛᴀᴍɪʟ ✅
+› ᴊᴜᴊᴜᴛꜱᴜ ᴋᴀɪꜱᴇɴ ᴛᴀᴍɪʟ ✅
+› ᴅᴇᴍᴏɴ ꜱʟᴀʏᴇʀ ᴛᴀᴍɪʟ ✅
+› ꜱᴏʟᴏ ʟᴇᴠᴇʟɪɴɢ ᴛᴀᴍɪʟ ✅
 
 🔹 ᴅᴏɴ'ᴛ ᴅᴏ ᴀɴʏ sᴇʟғ ᴘʀᴏᴍᴏᴛɪᴏɴ.
 
-🔹 ᴅᴏɴ'ᴛ sᴇɴᴅ ᴀɴʏ ᴋɪɴᴅ ᴏғ ᴘʜᴏᴛᴏ, ᴠɪᴅᴇᴏ ᴅᴏᴄᴜᴍᴇɴᴛs, ᴜʀʟ ᴇᴛᴄ..
+🔹 ᴅᴏɴ'ᴛ sᴇɴᴅ ᴀɴʏ ᴋɪɴᴅ ᴏғ ᴘʜᴏᴛᴏ, ᴠɪᴅᴇᴏ ᴅᴏᴄᴜᴍᴇɴᴛs, ᴜʀʟ ᴇᴛᴄ...
 
-🔹 ᴅᴏɴ'ᴛ ʀᴇǫᴜᴇsᴛ ᴀɴʏ ᴛʜɪɴɢs ᴏᴛʜᴇʀ ᴛʜᴀɴ ᴍᴏᴠɪᴇ sᴇʀɪᴇs ᴀɴɪᴍᴇs..
+⚙️ 𝖭ᴏᴛᴇ :- 𝖠ʟʟ ᴍᴇ𝗌𝗌ᴀɢᴇ𝗌 ᴡɪʟʟ ʙᴇ ᴀᴜᴛᴏ-ᴅᴇʟᴇᴛᴇᴅ ᴀғᴛᴇʀ 𝟷𝟶 ᴍɪɴᴜᴛᴇ𝗌 ᴛᴏ ᴀᴠᴏɪᴅ ᴄᴏᴘʏʀɪɢʜᴛ ɪ𝗌𝗌ᴜᴇ𝗌
 
-⚙️ 𝖭ᴏᴛᴇ :- 𝖠ʟʟ ᴍᴇ𝗌𝗌ᴀɢᴇ𝗌 ᴡɪʟʟ ʙᴇ ᴀᴜᴛᴏ-ᴅᴇʟᴇᴛᴇᴅ ᴀғᴛᴇʀ 𝟷𝟶 ᴍɪɴᴜᴛᴇ𝗌 ᴛᴏ ᴀᴠᴏɪᴅ ᴄᴏᴘʏʀɪɢʜᴛ ɪ𝗌𝗌ᴜᴇ𝗌"""
+◤ @RN_LinkZzzz 🌟"""
 
     CONNECTION_TXT = """ʜᴇʟᴘ: <b>ᴄᴏɴɴᴇᴄᴛɪᴏɴꜱ</b>
 - ᴜꜱᴇᴅ ᴛᴏ ᴄᴏɴɴᴇᴄᴛ ʙᴏᴛ ᴛᴏ ᴘᴍ ꜰᴏʀ ᴍᴀɴᴀɢɪɴɢ ꜰɪʟᴛᴇʀꜱ 
@@ -239,21 +246,37 @@ Nᴀᴍᴇ - {}"""
     MELCOW_ENG = """<b>Hᴇʟʟᴏ {} 😍, Aɴᴅ Wᴇʟᴄᴏᴍᴇ Tᴏ {} Gʀᴏᴜᴘ ❤️</b>"""
 
     SHORTLINK_INFO = """
-<b>──────「<a href=https://t.me/TG_UPDATES1/336> Hᴏᴡ ᴛᴏ Eᴀʀɴ Mᴏɴᴇʏ </a> 」──────
+<b>──────「<a href=https://t.me/RN_LinkZzzz> 𝐑𝐍 𝐂𝐇𝐀𝐍𝐍𝐄𝐋 𝐋𝐈𝐒𝐓 </a> 」──────
 
-Yᴏᴜ ᴄᴀɴ Eᴀʀɴ Mᴏɴᴇʏ Fʀᴏᴍ Tʜɪs Bᴏᴛ Uɴᴛɪʟ ᴛʜɪs ʙᴏᴛ ɪs ᴀʟɪᴠᴇ.
+👋🏼 𝙃𝙞 𝙛𝙧𝙞𝙚𝙣𝙙𝙨 - 𝙅𝙤𝙞𝙣 𝙊𝙪𝙧 𝙊𝙛𝙛𝙞𝙘𝙞𝙖𝙡 𝘾𝙝𝙖𝙣𝙣𝙚𝙡𝙨 #RN ❤️👇🏼
 
-Wᴀɴᴛ ᴛᴏ Kɴᴏᴡ Hᴏᴡ? Fᴏʟʟᴏᴡ Tʜᴇsᴇ Sᴛᴇᴘs:-
+<a href='https://t.me/RN_LinkZzzz'>🎥 𝙍𝙉 𝙇𝙞𝙣𝙠𝙕𝙯𝙯𝙯 🔥</a></b>
 
-sᴛᴇᴘ 𝟷 : ʏᴏᴜ ᴍᴜsᴛ ʜᴀᴠᴇ ᴀᴛʟᴇᴀsᴛ ᴏɴᴇ ɢʀᴏᴜᴘ ᴡɪᴛʜ ᴍɪɴɪᴍᴜᴍ 1𝟶𝟶 ᴍᴇᴍʙᴇʀs.
+<a href='https://t.me/Movies_Roman'>🎥 𝙏𝙖𝙢𝙞𝙡 𝙈𝙤𝙫𝙞𝙚𝙨 𝘽𝙤𝙩𝙨 ❤️‍🔥</a></b>
 
-sᴛᴇᴘ 𝟸 : ᴍᴀᴋᴇ ᴀᴄᴄᴏᴜɴᴛ ᴏɴ Aɴʏ <a href=https://tamizhmasters.net/ref/Kushal>Sʜᴏʀᴛᴇɴᴇʀ Wᴇʙsɪᴛᴇ</a>.
+<a href='https://t.me/+68zy4LjkdGU1MGVl'>🎥 𝙏𝙖𝙢𝙞𝙡 𝙈𝙤𝙫𝙞𝙚𝙨 🔥 </a></b>
 
-sᴛᴇᴘ 𝟹 : ꜰᴏʟʟᴏᴡ ᴛʜᴇsᴇ <a href=https://t.me/TG_UPDATES1/336> ɪɴꜱᴛʀᴜᴄᴛɪᴏɴꜱ </a>Tᴏ ᴄᴏɴɴᴇᴄᴛ sʜᴏʀᴛᴇɴᴇʀ.
+<a href='https://t.me/+0NOiS3L7jRA2NDc1'> 🎥 𝘼𝙡𝙡 𝙃𝘿 𝙈𝙤𝙫𝙞𝙚𝙨 🤠 </a></b>
 
-➣ Yᴏᴜ ᴄᴀɴ ᴄᴏɴɴᴇᴄᴛ ᴀs ᴍᴀɴʏ ɢʀᴏᴜᴘ ʏᴏᴜ ʜᴀᴠᴇ.
+<a href='https://t.me/+EtsLJsB5_yg5OTA1'> 🎥 𝙃𝙤𝙡𝙡𝙮𝙬𝙤𝙤𝙙 𝙈𝙤𝙫𝙞𝙚𝙨 ⚡ </a></b>
 
-Any Doubts or Not Connecting? Contact Me </b>
+<a href='https://t.me/+cDZZdjcDFk01Y2I1'> 🎥 𝙈𝙖𝙧𝙫𝙚𝙡 𝘾𝙤𝙡𝙡𝙚𝙘𝙩𝙞𝙤𝙣 🔥 </a></b>
+
+<a href='https://t.me/+JIYLZ4MvUqQzYzk1'> 🎥 𝘿𝘾 𝘾𝙤𝙡𝙡𝙚𝙘𝙩𝙞𝙤𝙣 ❤️‍🔥 </a></b>
+
+<a href='https://t.me/+yXPKOhTkFeM5MjU1'>🎥 𝙏𝙖𝙢𝙞𝙡 𝙒𝙚𝙗 𝙨𝙚𝙧𝙞𝙚𝙨 🩵 </a></b>
+
+<a href='https://t.me/+vRUih_-eotphOTBl'> 🎥 𝙆𝙤𝙧𝙚𝙖𝙣 𝙎𝙚𝙧𝙞𝙚𝙨 ❤️ </a></b>
+
+<a href='https://t.me/naruto_roman_rb'> 🎥 𝙉𝙖𝙧𝙪𝙩𝙤 & 𝙎𝙝𝙞𝙥𝙥𝙪𝙙𝙚𝙣 𝙏𝙖𝙢𝙞𝙡 ❤️‍🔥 </a></b>
+
+<a href='https://t.me/one_roman_rb'> 🎥 𝙊𝙣𝙚 𝙋𝙞𝙚𝙘𝙚 𝙏𝙖𝙢𝙞𝙡 ⚡ </a></b>
+
+<a href='https://t.me/+0RiXG-5OY5pkYmVl'> 🎥 𝙏𝙖𝙢𝙞𝙡 𝘼𝙣𝙞𝙢𝙚𝙨 💥 </a></b>
+
+🥰 𝐉𝐨𝐢𝐧 𝐎𝐮𝐫 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 𝐂𝐡𝐚𝐧𝐧𝐞𝐥𝐬 ☝🏼
+
+◤ @RN_LinkZzzz 🌟 </b>
 """
 
     REQINFO = """
@@ -292,12 +315,12 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 
     CAPTION = """ 
 <b>══════════════════
-🗂 {file_name}
+🗂 @RN_LinkZzzz :- {file_name}
 ═══════════════════ 
 𝐒𝐔𝐁𝐒𝐂𝐑𝐈𝐁𝐄 𝐇𝐄𝐑𝐄 👇
-╔══════════════════╗         
-    <a href="https://t.me/TG_LINKS_CHANNEL">🔱 𝐂𝐇𝐀𝐍𝐍𝐄𝐋 🔱</a>
-╚══════════════════╝</b>"""
+╔═════════════════╗         
+    <a href="https://t.me/RN_LinkZzzz">🔱 𝐂𝐇𝐀𝐍𝐍𝐄𝐋 🔱</a>
+╚═════════════════╝</b>"""
     
     IMDB_TEMPLATE_TXT = """
 <b>Query: {query}
